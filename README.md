@@ -8,3 +8,4 @@ This project enables us to learn source code control using Git.
 To have code we can use for hands on exercises.
 
 ##No More Conflicts
+We can now merge back into Master without any trouble
